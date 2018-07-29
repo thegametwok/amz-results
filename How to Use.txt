@@ -1,0 +1,23 @@
+Basic VBA program that finds info from a large data file and returns requested information. 
+
+To use this, you must have both "Return Results" and "AMZ Sample List.xlsx" open. Insert the numbers into the peach column (COLUMN A). Hit the "READY BUTTON" when you have inputted all of the numbers. Hit the "RETURN INFORMATION" button to return the information in the following columns. To delete all of the information, hit the "START OVER" button. If there are duplicate numbers, this sheet will always return the FIRST result. For sample purposes, I have included several numbers here. Hit the "READY BUTTON" and then "RETURN INFORMATION" to show these sample results.		
+
+NOTE: Personal information has been altered (phone numbers, names, address) to protect the identity of the information. Point of the sheet is to show the efficiency. 
+
+In the event the sample numbers get deleted, you can use the following ones here.
+
+1111111134
+1111111135
+1111111136
+1111111137
+1111111138
+1111111139
+1111111140
+1111111141
+1111111142
+1111111143
+1111111144
+1111111145
+1111111146
+1111111147
+1111111148
